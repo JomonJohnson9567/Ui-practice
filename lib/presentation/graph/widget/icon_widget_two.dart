@@ -56,8 +56,8 @@ class _IconWidgetTwoState extends State<IconWidgetTwo>
             decoration: BoxDecoration(
               gradient: LinearGradient(
                 colors: [
-                  const Color.fromARGB(255, 117, 76, 89),
-                  Colors.deepPurpleAccent,
+                  const Color.fromARGB(255, 66, 44, 51),
+                  const Color.fromARGB(255, 89, 53, 187),
                 ],
                 begin: _alignmentAnimation.value,
                 end: Alignment.bottomRight,
